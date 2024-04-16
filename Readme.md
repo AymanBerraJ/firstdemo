@@ -9,3 +9,6 @@
 -dormir
 -jouer
 # EVENING
+-jouer
+-manger
+-dormir
